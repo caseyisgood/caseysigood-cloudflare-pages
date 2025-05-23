@@ -11,7 +11,7 @@ features:
   - icon: ☕
     title: 《Java编程：从识字到创作 · Ⅰ》
     details: 学习Java第一步
-    link: /zh-CN/tutorials/java01/
+    link: /tutorials/java01/
 
  
   - title: "To Be Continued"

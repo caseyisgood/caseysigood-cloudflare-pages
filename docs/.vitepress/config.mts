@@ -88,7 +88,7 @@ export default defineConfig({
               ]
             }
           ],
-          '/en//about/': [
+          '/en/about/': [
             {
               text: 'About',
               items: [
