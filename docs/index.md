@@ -2,16 +2,10 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
-# <script setup>
-# if (typeof window !== 'undefined' && window.location.hostname === 'wangkaixin.net.cn') {
-#   window.location.replace('/zh-CN/');
-# }
-# </script>
-
 hero:
-  name: "Wang Kaixin"
-  text: "Stay hungry, Stay foolish"
-  # tagline: Coding dreams into reality
+  name: "王凯鑫"
+  text: "求知若饥，虚心若愚"
+  # tagline: 将梦想编码为现实
   # image:
   #   src: /imgs/profile-picture.jpg
   #   alt: Wang Kaixin
@@ -19,37 +13,24 @@ hero:
   #   src: /icon.png
   #   alt: Wang Kaixin
   actions:
-    # - theme: brand
-    #   text: Markdown Examples
-    #   link: /markdown-examples
-    # - theme: alt
-    #   text: API Examples
-    #   link: /api-examples
-
-
     - theme: brand
-      text: Get Started Reading
+      text: 开始阅读
       link: /tutorials/
 
     - theme: alt
-      text: Reach Out
+      text: 联系我
       link: /contact
-
 
 features:
   - icon: 💻
-    title: CS Student
-    details: Currently studying Computer Science at Wenzhou-Kean University. Familiar with Java, Python, HTML, CSS, and other programming languages.
+    title: 计算机科学学生
+    details: 目前在温州肯恩大学学习计算机科学。熟悉Java、Python、HTML、CSS等编程语言。
 
   - icon: 🔢
-    title: Math Lover
-    details: I chase intuition and curiosity in math. I prefer feeling math to merely solving math.
-
-
+    title: 数学爱好者
+    details: 我追求数学的直觉和好奇。我更喜欢感受数学而不仅仅是解决数学问题。
 
   - icon: 🤔
-    title: Inquirer
-    details: I am always curious about the patterns behind the things I see. I hope I could find more subtle inconsistencies - the "why does this feel off?" moments, and figure out what's really going on.
-
+    title: 探索者
+    details: 我总是对我所见事物背后的模式感到好奇。我希望能发现更多微妙的不一致之处——那些"为什么感觉不对劲？"的时刻，并弄清楚真正发生了什么。
 ---
-

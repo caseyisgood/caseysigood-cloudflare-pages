@@ -1,67 +1,54 @@
-# Resume
-Wang, Kaixin (Casey)
+# 简历
+王凯鑫 (Casey)
 
-[wankaixi@kean.edu](mailto:wankaixi@kean.edu) | (+86) 137-5832-5916 | Jiaxing, Zhejiang, China 314000
+[wankaixi@kean.edu](mailto:wankaixi@kean.edu) | (+86) 137-5832-5916 | 中国浙江嘉兴 314000
 
+## **教育背景**
 
+**计算机科学理学学士**  
+温州肯恩大学 | 预计毕业时间：2027年
 
-## **Education**
+- 相关课程：计算机科学基础、计算机编程、数据结构、计算机组成与体系结构、计算机系统、UNIX/LINUX入门、研究与技术、微积分I、离散结构、矩阵与线性代数
+- GPA：3.958/4.0
+- 排名：5/180
 
-**Bachelor of Science in Computer Science**  
-Wenzhou-Kean University | Graduation: 2027
+**高中文凭**
 
-- Relevant Coursework: Foundation of Computer Science, Computer Programming, Data Structures, Computer Organization & Architecture, Computer Systems, Introduction to UNIX/LINUX, Research and Technology, Calculus I, Discrete Structures, Matrix & Linear Algebra
-- GPA: 3.958/4.0
-- Ranking: 5/180
+嘉兴一中实验学校 | 毕业时间：2023年
 
-**Highschool Diploma**
+- 相关课程：信息技术、通用技术
+- 高考成绩浙江省排名前16.24%
 
-Jiaxing NO.1 Middle School Experimental Sub-Branch | Graduation: 2023
+## **技能**
 
-- Relevant Coursework: Information Technology, General Technology
-  
-- Top 16.24% in the National College Entrance Examination (Gaokao)
-  
+- **编程语言**：Python, Java, HTML, CSS
+- **软技能**：沟通能力、领导力、创造力、问题解决能力、团队合作
+- **语言能力**：中文（母语）、英语（流利）、西班牙语（初级）
+- **证书**：多邻国英语测试：115分，大学英语四级：591分
 
+## **课外活动**
 
+**朋辈导师**，学生学术支持中心 | 温州肯恩大学 | 2024年 - 至今
 
-## **Skills**
+- 为同学提供计算机科学、数学和其他科学相关课程的辅导
+- 提供一对一辅导，帮助同学理解课程概念
+- 帮助学生发展有效的学习方法，掌握编程和问题分析技能
 
-- **Programming Languages**: Python, Java, HTML, CSS
-- **Soft Skills**: Communication, Leadership, Creativity, Problem Solving, Teamwork
-- **Languages**: Chinese (Native), English (Fluent), Spanish (Beginner)
-- **Certifications**: Duolingo English Test: 115, College English Test-4: 591
+**成员**，浙江大学2025年SDG全球暑期学校 | 浙江大学 | 2024年
 
+- 参与数字技术与口腔医学发展工作坊
+- 参加口腔医学与整体健康讲座，学习数字技术在医学和生物信息学应用的前沿研究
 
+**副部长**，学生媒体与设计中心新闻报道部 | 温州肯恩大学 | 2023年 - 至今
 
-## **Extracurricular Activities**
+- 进行采访并撰写关于校园活动、学生成就和大学举措的文章
+- 领导学生记者团队为温州肯恩大学官方微信公众号制作新闻内容
 
-**Peer Tutor**, Student Academic Support and Retention Center | Wenzhou-Kean University | 2024 - Present
+## **奖项与荣誉**
 
-- Offer Computer Science, Math, and other science-related courses tutoring for peer students.
-  
-- Offer 1-on-1 tutoring to help peer students understand concepts in their courses.
-  
-- Help students to develop effective study methods, mastering coding, and problem-analyzing skills.
-  
-
-**Member**, Zhejiang University 2025 SDG Global Summer School | Zhejiang University | 2024
-
-- Experienced Digital Technology and the Development of Stomatology Workshop.
-- Participated in Stomatology and Overall Health Lectures and learned cutting-edge research about digital technologies applied in medical and bioinformatics.
-
-**Vice Minister**, News Report Department of Student Media and Design Center | Wenzhou-Kean University | 2023 - Present
-
-- Conducted interviews and wrote articles on campus events, student achievements, and university initiatives.
-- Led a team of student reporters to produce news content for Wenzhou-Kean University’s official WeChat account
-
-
-
-## **Awards and Honors**
-
-- **Dean's Scholarship—First Class**, Wenzhou-Kean University | 2024
-- **Zhejiang Province Government Scholarship**, Department of Education of Zhejiang Province | 2024
-- **Dean’s List**, Wenzhou-Kean University | 2023, 2024
-- **The 9th "LSCAT" Zhejiang Translation English-Chinese Undergraduate Group 2nd Prize**, [Translators Association of China](http://en.tac-online.org.cn/) & [Translators Association of Zhejiang](http://www.zjsfyxh.com/) | 2024
-- **"FLTRP ETIC Cup" in Translation 1st Prize on Campus**, Wenzhou-Kean University | 2023
-- **"FLTRP ETIC Cup" in Interpretation 3rd Prize on Campus**, Wenzhou-Kean University | 2023
+- **院长奖学金—一等奖**，温州肯恩大学 | 2024年
+- **浙江省政府奖学金**，浙江省教育厅 | 2024年
+- **院名单**，温州肯恩大学 | 2023年, 2024年
+- **第九届"LSCAT"浙江省翻译大赛英译汉本科组二等奖**，[中国翻译协会](http://en.tac-online.org.cn/) & [浙江省翻译协会](http://www.zjsfyxh.com/) | 2024年
+- **"外研社·国才杯"全国英语写作大赛校园选拔赛一等奖**，温州肯恩大学 | 2023年
+- **"外研社·国才杯"全国英语演讲大赛校园选拔赛三等奖**，温州肯恩大学 | 2023年

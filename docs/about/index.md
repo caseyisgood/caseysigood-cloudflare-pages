@@ -1,32 +1,32 @@
 ---
 prev: false
 next:
-  text: 'Resume'
+  text: '简历'
   link: '/about/resume'
 ---
-# About Me
+# 关于我
 
-## 👋 Hi there!
+## 👋 你好！
 
-I'm Wang Kaixin, a student at Wenzhou-Kean University, majoring in Computer Science. I am from Jiaxing, Zhejiang, China, a beautiful city in the south of China. I am a passionate programmer and a lifelong learner, interested in **Software Engineering**, **Data Science**, **Artificial Intelligence**, and **Bioinformatics**.
+我是王凯鑫，温州肯恩大学计算机科学专业的学生。我来自中国浙江嘉兴，一个美丽的南方城市。我是一位充满激情的程序员和终身学习者，对**软件工程**、**数据科学**、**人工智能**和**生物信息学**感兴趣。
 
-## 📚 I am learning...
+## 📚 我正在学习...
 
 - Java, Python
 - HTML, CSS, JavaScript
-- Medical Image Processing, Data Analysis
+- 医学图像处理，数据分析
 
-## 👀 I am looking for...
+## 👀 我正在寻找...
 
-- An internship in Software Engineering.
-- An internship as a Research Assistant in Computer Vision.
-- An internship as a Research Assistant in AI4Science.
+- 软件工程实习机会
+- 计算机视觉研究助理实习
+- AI4Science研究助理实习
 
-## 📫 How to reach me...
-If you are interested in my work, please feel free to reach out to me. I'm always happy to hear from you! <br>
+## 📫 如何联系我...
+如果你对我的工作感兴趣，请随时联系我。我随时欢迎你的来信！<br>
 
-<a href="/contact" class="contact-button" style="display: inline-block; padding: 10px 20px; background-color: #5672cd; color: white; text-decoration: none; border-radius: 4px; cursor: pointer;">👉👉👉<strong>Contact Me</strong>👈👈👈</a>
+<a href="/contact" class="contact-button" style="display: inline-block; padding: 10px 20px; background-color: #5672cd; color: white; text-decoration: none; border-radius: 4px; cursor: pointer;">👉👉👉<strong>联系我</strong>👈👈👈</a>
 
-## 📄 Resume
-To see more about me, please view my [resume](/about/resume) in next page.
+## 📄 简历
+想了解更多关于我的信息，请查看下一页的[简历](/about/resume)。
 

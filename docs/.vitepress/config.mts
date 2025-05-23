@@ -37,30 +37,31 @@ export default defineConfig({
   // },
 
   locales: {
-    root: {
+    'en': {
       label: 'English',
       lang: 'en-US',
       title: 'Wang Kaixin',
       description: "Wang Kaixin's personal website. A Computer Science Student at Wenzhou-Kean University.",
+      link: '/en/',
       themeConfig: {
         logo: {
           src: '/avatar.png',
           alt: 'Logo'
         },
         nav: [
-          { text: 'Home', link: '/' },
+          { text: 'Home', link: '/en/' },
           {
             text: 'About',
             items: [
-              { text: 'About', link: '/about' },
-              { text: 'Resume', link: '/about/resume' }
+              { text: 'About', link: '/en/about' },
+              { text: 'Resume', link: '/en/about/resume' }
             ]
           },
           {
             text: 'Tutorials',
-            link: '/tutorials/',
+            link: '/en/tutorials/',
           },
-          { text: 'Contact', link: '/contact' },
+          { text: 'Contact', link: '/en/contact' },
           {
             text: 'External Links',
             items: [
@@ -79,29 +80,29 @@ export default defineConfig({
           }
         },
         sidebar: {
-          '/contact/': [
+          '/en/contact/': [
             {
               text: 'Contact',
               items: [
-                { text: 'Contact', link: '/contact' }
+                { text: 'Contact', link: '/en/contact' }
               ]
             }
           ],
-          '/about/': [
+          '/en//about/': [
             {
               text: 'About',
               items: [
-                { text: 'About', link: '/about' },
-                { text: 'Resume', link: '/about/resume' }
+                { text: 'About', link: '/en/about' },
+                { text: 'Resume', link: '/en/about/resume' }
               ]
             }
           ],
-          '/tutorials/java01': [
+          '/en/tutorials/java01': [
             {
               text: 'Java Programming: From Words to Works - Ⅰ',
               items: [
-                { text: 'Preface', link: '/tutorials/java01' },
-                { text: 'Chapter 1 - Introduction', link: '/tutorials/java01/chapter01' }
+                { text: 'Preface', link: '/en/tutorials/java01' },
+                { text: 'Chapter 1 - Introduction', link: '/en/tutorials/java01/chapter01' }
               ]
             }
           ]
@@ -130,31 +131,31 @@ export default defineConfig({
         darkModeSwitchTitle: "Switch to dark theme"
       }
     },
-    'zh-CN': {
+    root: {
       label: '简体中文',
       lang: 'zh-CN',
       title: '王凯鑫',
       description: '王凯鑫的个人网站。温州肯恩大学计算机科学专业学生。',
-      link: '/zh-CN/',
+      link: '/',
       themeConfig: {
         logo: {
           src: '/avatar.png',
           alt: 'Logo'
         },
         nav: [
-          { text: '首页', link: '/zh-CN/' },
+          { text: '首页', link: '/' },
           {
             text: '关于',
             items: [
-              { text: '关于我', link: '/zh-CN/about' },
-              { text: '简历', link: '/zh-CN/about/resume' }
+              { text: '关于我', link: '/about' },
+              { text: '简历', link: '/about/resume' }
             ]
           },
           {
             text: '教程',
-            link: '/zh-CN/tutorials/',
+            link: '/tutorials/',
           },
-          { text: '联系', link: '/zh-CN/contact' },
+          { text: '联系', link: '/contact' },
           {
             text: '外部链接',
             items: [
@@ -194,30 +195,30 @@ export default defineConfig({
           }
         },
         sidebar: {
-          '/zh-CN/contact/': [
+          '/contact/': [
             {
               text: '联系',
               items: [
-                { text: '联系我', link: '/zh-CN/contact' }
+                { text: '联系我', link: '/contact' }
               ]
             }
           ],
-          '/zh-CN/about/': [
+          '/about/': [
             {
               text: '关于',
               items: [
-                { text: '关于我', link: '/zh-CN/about' },
-                { text: '简历', link: '/zh-CN/about/resume' }
+                { text: '关于我', link: '/about' },
+                { text: '简历', link: '/about/resume' }
               ]
             }
           ],
-          '/zh-CN/tutorials/java01': [
+          '/tutorials/java01': [
             {
               text: 'Java编程：从识字到创作 · Ⅰ',
               items: [
-                { text: '前言', link: '/zh-CN/tutorials/java01' },
-                { text: '第1章 - 绪论', link: '/zh-CN/tutorials/java01/chapter01' },
-                { text: '第2章 - 初识程序与Java', link: '/zh-CN/tutorials/java01/chapter02' },
+                { text: '前言', link: '/tutorials/java01' },
+                { text: '第1章 - 绪论', link: '/tutorials/java01/chapter01' },
+                { text: '第2章 - 初识程序与Java', link: '/tutorials/java01/chapter02' },
               ]
             }
           ]

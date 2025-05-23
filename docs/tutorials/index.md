@@ -3,16 +3,17 @@ layout: home
 
 hero:
 #   name: "Content"
-  text: "Tutorials"
-  tagline: I hope these help!
+  text: "教程"
+  tagline: 希望这些教程能帮到你！
 
 
 features:
   - icon: ☕
-    title: "Java Programming: From Words to Works - Ⅰ"
-    details: First steps to Java
-    link: /tutorials/java01/
+    title: 《Java编程：从识字到创作 · Ⅰ》
+    details: 学习Java第一步
+    link: /zh-CN/tutorials/java01/
 
+ 
   - title: "To Be Continued"
     details: Coming soon...
 
