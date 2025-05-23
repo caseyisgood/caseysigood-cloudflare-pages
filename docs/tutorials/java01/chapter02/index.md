@@ -1,7 +1,7 @@
 ---
 prev: 
     text: '第1章 - 绪论'
-    link: '/zh-CN/tutorials/java01/chapter01'
+    link: '/tutorials/java01/chapter01'
 next: false
 ---
 
