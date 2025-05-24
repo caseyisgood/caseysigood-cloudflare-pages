@@ -5,6 +5,16 @@ prev:
 next:
     text: '第2章 - 初识程序与Java'
     link: '/tutorials/java01/chapter02'
+title: '第1章 - 绪论 | Java编程：从识字到创作 · Ⅰ '
+description: '本章介绍教程的教学理念、使用方法和学习路径，帮助读者建立正确的学习思维框架，理解"编程即写作"的核心概念，为后续学习打下坚实基础。'
+keywords: 
+  - Java编程
+  - 程序概念
+  - Java语言
+  - Java教程
+  - 编程入门
+author: '王凯鑫'
+date: '2025-05-21'
 ---
 
 # 第1章 - 绪论
